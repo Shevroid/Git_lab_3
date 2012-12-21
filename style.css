@@ -19,3 +19,8 @@
 	margin-top:0;
 	padding-top: 0;
 }
+.right_col ol ul li
+{
+	background: lightcyan;
+	font: 16px courier;
+}
