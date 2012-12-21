@@ -2,7 +2,6 @@
 {
 	width: 60%;
 	float: right;
-	
 }
 .right_col h1
 {
@@ -14,5 +13,9 @@
 {
 	margin:0;
 	padding:0;
-	
+}
+.right_col ul
+{
+	margin-top:0;
+	padding-top: 0;
 }
