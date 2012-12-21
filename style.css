@@ -1,0 +1,18 @@
+.right_col
+{
+	width: 60%;
+	float: right;
+	
+}
+.right_col h1
+{
+	margin: 0;
+	padding: 20px 0 5px 0;
+	font: bold 16px arial;
+}
+.right_col p
+{
+	margin:0;
+	padding:0;
+	
+}
