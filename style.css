@@ -1,7 +1,17 @@
 .right_col
 {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 7px;
+	
 	width: 60%;
 	float: right;
+	
+	background: -moz-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: -webkit-linear-gradient(top, #f0f0fe, #cdcdcd);
+    background: -o-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: -ms-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: linear-gradient(top, #f0f0fe, #cdcdcd); 
 }
 .right_col h1
 {
