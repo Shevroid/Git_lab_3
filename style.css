@@ -34,3 +34,75 @@
 	background: lightcyan;
 	font: 16px courier;
 }
+/*first commit*/
+.left_col
+{
+	margin: 5px;
+	padding: 10px;
+	border-radius: 7px;
+	width: 32%;
+	float: left;
+	background: -moz-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: -webkit-linear-gradient(top, #f0f0fe, #cdcdcd);
+    background: -o-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: -ms-linear-gradient(top, #f0f0fe, #cdcdcd); 
+    background: linear-gradient(top, #f0f0fe, #cdcdcd); 
+}
+.left_col h1
+{
+	text-align:center;
+	padding: 20px 0 5px 0;
+	font: bold 16px arial;
+}
+.left_col p
+{
+	margin:0;
+	padding:0;
+}
+.left_col ul
+{
+	margin-top:0;
+	padding-top: 0;
+}
+.left_col li
+{
+	list-style-type: none;
+}
+.left_col ol ul li
+{
+	background: lightcyan;
+	font: 16px courier;
+}
+.left_col a {
+ color:#FF0000;
+ text-decoration:none
+}
+
+.left_col a:active {
+ color:#FF0000;
+ text-decoration:none
+}
+
+.left_col a:visited {
+ color:#666666;
+ text-decoration:none
+}
+
+.left_col a:hover {
+ color:#339900;
+ text-decoration: none
+}
+/* second commit - clear*/
+.clear{
+	clear: both;
+}
+/*third commit - footer*/
+.footer{
+	margin: 20px auto;
+	padding: 10px;
+	border: 2px double black;
+	width: 300px;
+}
+.footer h2{
+	text-align:center;
+}
