@@ -109,3 +109,9 @@
 .midcol{
 	width:10px;
 }
+.midcol h1{
+	text-align:center;
+}
+.midcol p{
+	text-decoration:underline;
+}
